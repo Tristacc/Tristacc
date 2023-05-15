@@ -1,2 +1,2 @@
-# TristaLu
-Hi There! I'm Trista!
+## Hi there, I'm Trista
+
