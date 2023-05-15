@@ -1,2 +1,2 @@
 # TristaLu
-Hello World!
+Hi There! I'm Trista!
