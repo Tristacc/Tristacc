@@ -8,7 +8,7 @@
 
 💡 I'm passionate about diving into the latest technologies and frameworks, always on the lookout for innovative ways to develop efficient software solutions and quick hacks.
 
-💡 I recently graduated with a Master's in Computer Science from Brandeis University, where I honed my skills in algorithms, data structures, and machine learning. I also had the opportunity to help design the homepage for an online store, applying principles of UX/UI and responsive design.
+💡 I recently graduated with a Master's in Computer Science from Brandeis University, where I honed my skills in algorithms, data structures, and operating system. I also had the opportunity to help design the homepage for an online store, applying principles of UX/UI and responsive design.
 
 💡 My current interests lie in web development, particularly in enhancing web security through secure coding practices and API design, ensuring robust and scalable applications.
 
