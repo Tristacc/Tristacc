@@ -1,5 +1,3 @@
-![Trista's Banner](https://github.com/Tristacc/Tristacc/blob/main/assets/trista.png?raw=true)
-
 <h3>Moshi Moshi</h3>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
