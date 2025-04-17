@@ -1,6 +1,6 @@
 ![Trista's Banner](https://github.com/Tristacc/Tristacc/blob/main/assets/trista.png?raw=true)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Moshi Moshi</h2>
+<h2>Moshi Moshi</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
